@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AnthonyAstige/flow-playground/issues"
   },
-  "homepage": "https://github.com/AnthonyAstige/flow-playground#readme"
+  "homepage": "https://github.com/AnthonyAstige/flow-playground#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-flow": "^7.7.4"
+  }
 }
